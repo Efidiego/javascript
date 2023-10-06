@@ -1,13 +1,13 @@
 @charset "UTF-8";
 
 body {
-    background-color: rgb(107, 107, 241);
+    background-color: rgb(109, 230, 159);
     font: normal 15pt arial;
 
 }
 
 header {
-    color: white;
+    color: rgb(91, 145, 66);
     text-align: center;
 
 }
@@ -23,7 +23,7 @@ section {
 }
 
 footer {
-    color: white;
+    color: black;
     text-align: center;
     font-style: italic;
 }
